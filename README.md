@@ -1,5 +1,5 @@
 <h1>python practice</h1>
-<p>This repo constists my python practice</p>
+<p>This repo contains my python practice</p>
 <h2>Lab 1</h2>
 <ul>
 <li>Write a program that prints a square.</li>
